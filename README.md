@@ -1,6 +1,6 @@
 # Predicción de retrasos en vuelos desde el aeropuerto de Santiago (2017)
 
-Este proyecto utiliza datos de vuelos del año 2017 desde el aeropuerto de Santiago junto con datos de nubosidad y precipitaciones de la estación meteorológica del aeropuerto para predecir retrasos en los vuelos. El objetivo es analizar cómo afectan las distintas variables de los vuelos contenidas en `dataset_SCL.csv` , como también ñas condiciones meteorológicas a la probabilidad de retraso de cada vuelo e incluir estos factores en los modelos predictivos. El análisis se realiza utilizando Python 3 y diversas bibliotecas de ciencia de datos y aprendizaje automático.
+Este proyecto utiliza datos de vuelos del año 2017 desde el aeropuerto de Santiago junto con datos de nubosidad y precipitaciones de la estación meteorológica del aeropuerto para predecir retrasos en los vuelos. El objetivo es analizar cómo afectan las distintas variables de los vuelos contenidas en `dataset_SCL.csv` , como también las condiciones meteorológicas a la probabilidad de retraso de cada vuelo e incluir estos factores en los modelos predictivos. El análisis se realiza utilizando Python 3 y diversas bibliotecas de ciencia de datos y aprendizaje automático.
 
 ## Requisitos previos
 
